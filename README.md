@@ -24,7 +24,7 @@ Auth-App is a **Node.js & Express.js** backend application for user authenticati
 
 ## ⚡ Quick Start  
 To run this project locally, follow these steps:  
-git clone https://github.com/your-username/auth-app.git
+git clone https://github.com/0ahmed0ghoul/auth-app.git
 cd auth-app
 npm install
 npm run dev
